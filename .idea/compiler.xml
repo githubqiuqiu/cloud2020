@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-api-common" />
+        <module name="cloud-config-center3344" />
+        <module name="cloud-config-client3355" />
+        <module name="cloud-config-client3366" />
+        <module name="cloud-consul-consumer-order80" />
+        <module name="cloud-consul-provider-payment8006" />
+        <module name="cloud-eureka-consumer-order80" />
+        <module name="cloud-eureka-provider-payment8001" />
+        <module name="cloud-eureka-provider-payment8002" />
+        <module name="cloud-eureka-server7001" />
+        <module name="cloud-eureka-server7002" />
+        <module name="cloud-feign-hystrix-consumer-order80" />
+        <module name="cloud-gateway-gateway9527" />
+        <module name="cloud-hystrix-consumer-dashboard9001" />
+        <module name="cloud-hystrix-provider-payment8001" />
+        <module name="cloud-openfeign-consumer-order80" />
+        <module name="cloud-stream-rabbitmq-consumer8802" />
+        <module name="cloud-stream-rabbitmq-consumer8803" />
+        <module name="cloud-stream-rabbitmq-provider8801" />
+        <module name="cloud-zookeeper-consumer-order80" />
+        <module name="cloud-zookeeper-provider-payment8004" />
+        <module name="cloudalibaba-nacos-config-client3377" />
+        <module name="cloudalibaba-nacos-consumer-order83" />
+        <module name="cloudalibaba-nacos-consumer-order84" />
+        <module name="cloudalibaba-nacos-provider-payment9001" />
+        <module name="cloudalibaba-nacos-provider-payment9002" />
+        <module name="cloudalibaba-nacos-provider-payment9003" />
+        <module name="cloudalibaba-nacos-provider-payment9004" />
+        <module name="cloudalibaba-sentinel-service8401" />
+        <module name="seata-account-service2003" />
+        <module name="seata-order-service2001" />
+        <module name="seata-storage-service2002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-eureka-payment8002" target="1.8" />
+      <module name="cloud-provider-payment8001" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
